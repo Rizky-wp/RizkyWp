@@ -118,7 +118,7 @@ body{
     font-family: 'Poppins', sans-serif;
     padding-top: 10%;
     padding-bottom: 10%;
-    background: linear-gradient(rgb(255, 255, 255),rgba(255, 255, 255, 0.815),rgb(255, 255, 255)) , url("/assets/img/background.JPG") no-repeat center;
+    background: linear-gradient(rgb(255, 255, 255),rgba(255, 255, 255, 0.815),rgb(255, 255, 255)) , url("https://rizky-wp.github.io/RizkyWp/assets/img/background.jpg") no-repeat center;
 }
 .skills .judul{
     color: rgba(23, 126, 121, 0.678);
